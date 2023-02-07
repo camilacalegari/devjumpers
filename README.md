@@ -72,3 +72,14 @@ Cambios: git log --oneline --decorate --all --graph
 |/
 * 5ce8002 (origin/v0.2) creación de .gitignore, creación de archivo 1.txt, creación de branch, creación de archivo 2.txt
 * 4770459 (origen/principal) compromiso inicial
+
+
+
+``` 
+    Nombre                     Link GitHub
+
+Franco Formigo                 https://github.com/francobenjaminformigo
+
+Leandro Cuevas                 https://github.com/leandro-cuevas
+
+Ivan                           https://github.com/ivandelaparte ´´´
